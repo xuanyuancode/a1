@@ -1,0 +1,1 @@
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0"><xsl:template match="/item"><plist version="1.0"><dict><key>game</key><string><xsl:value-of select="game"/></string><key>shop</key><string><xsl:value-of select="shop"/></string><key>sn</key><string><xsl:value-of select="sn"/></string></dict></plist></xsl:template></xsl:stylesheet>

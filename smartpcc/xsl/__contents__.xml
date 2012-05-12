@@ -1,0 +1,26 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/smartpcc/xsl" owner="admin" group="dba" mode="755" created="2012-04-23T02:37:12Z" version="1">
+    <resource type="XMLResource" name="._admindata.xml" owner="admin" group="dba" mode="755" created="2012-05-01T09:01:12Z" modified="2012-05-01T09:01:12Z" filename="._admindata.xml" mimetype="text/xml"/>
+    <resource type="XMLResource" name="._getlimit.xml" owner="admin" group="dba" mode="755" created="2012-05-01T04:26:33Z" modified="2012-05-01T04:26:33Z" filename="._getlimit.xml" mimetype="text/xml"/>
+    <resource type="XMLResource" name="._memdata.xml" owner="admin" group="dba" mode="755" created="2012-05-04T09:07:34Z" modified="2012-05-04T09:07:34Z" filename="._memdata.xml" mimetype="text/xml"/>
+    <resource type="XMLResource" name="._memplist.xml" owner="admin" group="dba" mode="755" created="2012-05-06T03:18:15Z" modified="2012-05-06T03:18:15Z" filename="._memplist.xml" mimetype="text/xml"/>
+    <resource type="XMLResource" name="._pcupdata.xml" owner="admin" group="dba" mode="755" created="2012-04-30T09:16:39Z" modified="2012-04-30T09:16:39Z" filename="._pcupdata.xml" mimetype="text/xml"/>
+    <resource type="XMLResource" name="._qsplist.xml" owner="admin" group="dba" mode="755" created="2012-05-03T05:23:23Z" modified="2012-05-03T05:23:24Z" filename="._qsplist.xml" mimetype="text/xml"/>
+    <resource type="XMLResource" name="._updataqs.xml" owner="admin" group="dba" mode="755" created="2012-05-06T15:25:19Z" modified="2012-05-06T15:25:20Z" filename="._updataqs.xml" mimetype="text/xml"/>
+    <resource type="XMLResource" name="._xdaypass.xml" owner="admin" group="dba" mode="755" created="2012-04-30T13:36:57Z" modified="2012-04-30T13:36:57Z" filename="._xdaypass.xml" mimetype="text/xml"/>
+    <resource type="XMLResource" name="admindata.xml" owner="admin" group="dba" mode="755" created="2012-05-01T09:01:12Z" modified="2012-05-01T09:01:12Z" filename="admindata.xml" mimetype="text/xml"/>
+    <resource type="XMLResource" name="adminuserlist.xml" owner="admin" group="dba" mode="755" created="2012-04-28T04:11:53Z" modified="2012-04-28T04:11:53Z" filename="adminuserlist.xml" mimetype="text/xml"/>
+    <resource type="XMLResource" name="getlimit.xml" owner="admin" group="dba" mode="755" created="2012-05-01T04:26:33Z" modified="2012-05-01T04:26:33Z" filename="getlimit.xml" mimetype="text/xml"/>
+    <resource type="XMLResource" name="login.xml" owner="admin" group="dba" mode="755" created="2012-04-25T01:10:41Z" modified="2012-04-25T01:10:41Z" filename="login.xml" mimetype="text/xml"/>
+    <resource type="XMLResource" name="memdata.xml" owner="admin" group="dba" mode="755" created="2012-05-04T09:07:34Z" modified="2012-05-04T09:07:34Z" filename="memdata.xml" mimetype="text/xml"/>
+    <resource type="XMLResource" name="memplist.xml" owner="admin" group="dba" mode="755" created="2012-05-06T03:18:15Z" modified="2012-05-06T03:18:15Z" filename="memplist.xml" mimetype="text/xml"/>
+    <resource type="XMLResource" name="orderitem.xml" owner="admin" group="dba" mode="755" created="2012-04-23T03:19:02Z" modified="2012-04-23T03:19:02Z" filename="orderitem.xml" mimetype="text/xml"/>
+    <resource type="XMLResource" name="pcplist.xml" owner="admin" group="dba" mode="755" created="2012-04-30T02:50:35Z" modified="2012-04-30T02:50:35Z" filename="pcplist.xml" mimetype="text/xml"/>
+    <resource type="XMLResource" name="pcupdata.xml" owner="admin" group="dba" mode="755" created="2012-04-30T09:16:39Z" modified="2012-04-30T09:16:39Z" filename="pcupdata.xml" mimetype="text/xml"/>
+    <resource type="XMLResource" name="plistxml.xml" owner="admin" group="dba" mode="755" created="2012-04-25T01:49:08Z" modified="2012-04-25T01:49:08Z" filename="plistxml.xml" mimetype="text/xml"/>
+    <resource type="XMLResource" name="qqdata.xml" owner="admin" group="dba" mode="755" created="2012-04-27T03:33:03Z" modified="2012-04-27T03:33:03Z" filename="qqdata.xml" mimetype="text/xml"/>
+    <resource type="XMLResource" name="qsplist.xml" owner="admin" group="dba" mode="755" created="2012-05-03T05:23:24Z" modified="2012-05-03T05:23:24Z" filename="qsplist.xml" mimetype="text/xml"/>
+    <resource type="XMLResource" name="setpersoninfo.xml" owner="admin" group="dba" mode="755" created="2012-05-09T05:19:17Z" modified="2012-05-09T05:19:17Z" filename="setpersoninfo.xml" mimetype="text/xml"/>
+    <resource type="XMLResource" name="tbplist.xml" owner="admin" group="dba" mode="755" created="2012-04-29T07:07:04Z" modified="2012-04-29T07:07:04Z" filename="tbplist.xml" mimetype="text/xml"/>
+    <resource type="XMLResource" name="updataqs.xml" owner="admin" group="dba" mode="755" created="2012-05-06T15:25:20Z" modified="2012-05-06T15:25:20Z" filename="updataqs.xml" mimetype="text/xml"/>
+    <resource type="XMLResource" name="xdaypass.xml" owner="admin" group="dba" mode="755" created="2012-04-30T13:36:57Z" modified="2012-04-30T13:36:57Z" filename="xdaypass.xml" mimetype="text/xml"/>
+</collection>

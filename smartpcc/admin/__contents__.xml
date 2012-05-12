@@ -1,0 +1,11 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/smartpcc/admin" owner="admin" group="dba" mode="755" created="2012-04-21T06:35:08Z" version="1">
+    <resource type="BinaryResource" name=".DS_Store" owner="admin" group="dba" mode="755" created="2012-05-02T07:30:34Z" modified="2012-05-02T07:30:39Z" filename=".DS_Store" mimetype="application/octet-stream"/>
+    <resource type="BinaryResource" name="._.DS_Store" owner="admin" group="dba" mode="755" created="2012-05-02T07:30:34Z" modified="2012-05-02T07:30:34Z" filename="._.DS_Store" mimetype="application/octet-stream"/>
+    <resource type="XMLResource" name="._admin.xml" owner="admin" group="dba" mode="755" created="2012-05-10T03:38:34Z" modified="2012-05-10T03:38:34Z" filename="._admin.xml" mimetype="text/xml"/>
+    <resource type="XMLResource" name="._fly.xml" owner="admin" group="dba" mode="755" created="2012-05-01T08:23:20Z" modified="2012-05-01T08:23:20Z" filename="._fly.xml" mimetype="text/xml"/>
+    <resource type="XMLResource" name="admin.xml" owner="admin" group="dba" mode="755" created="2012-05-10T03:38:34Z" modified="2012-05-10T03:38:34Z" filename="admin.xml" mimetype="text/xml"/>
+    <resource type="XMLResource" name="fly.xml" owner="admin" group="dba" mode="755" created="2012-05-01T08:23:20Z" modified="2012-05-01T08:23:20Z" filename="fly.xml" mimetype="text/xml"/>
+    <resource type="XMLResource" name="goods.xml" owner="admin" group="dba" mode="755" created="2012-04-26T01:28:00Z" modified="2012-04-26T01:28:00Z" filename="goods.xml" mimetype="text/xml"/>
+    <resource type="XMLResource" name="info.xml" owner="admin" group="dba" mode="755" created="2012-05-01T08:33:15Z" modified="2012-05-01T08:33:15Z" filename="info.xml" mimetype="text/xml"/>
+    <resource type="XMLResource" name="xdaypass.xml" owner="admin" group="dba" mode="755" created="2012-04-30T13:12:23Z" modified="2012-04-30T13:12:23Z" filename="xdaypass.xml" mimetype="text/xml"/>
+</collection>

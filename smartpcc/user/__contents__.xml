@@ -1,0 +1,12 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/smartpcc/user" owner="admin" group="dba" mode="755" created="2012-04-19T01:31:35Z" version="1">
+    <resource type="BinaryResource" name=".DS_Store" owner="admin" group="dba" mode="755" created="2012-05-02T07:30:08Z" modified="2012-05-02T09:05:01Z" filename=".DS_Store" mimetype="application/octet-stream"/>
+    <resource type="BinaryResource" name="._.DS_Store" owner="admin" group="dba" mode="755" created="2012-05-02T07:30:08Z" modified="2012-05-02T07:30:08Z" filename="._.DS_Store" mimetype="application/octet-stream"/>
+    <resource type="XMLResource" name="._1234567891.xml" owner="admin" group="dba" mode="755" created="2012-05-09T08:11:30Z" modified="2012-05-09T08:11:30Z" filename="._1234567891.xml" mimetype="text/xml"/>
+    <resource type="XMLResource" name="._1234567892.xml" owner="admin" group="dba" mode="755" created="2012-05-09T14:28:29Z" modified="2012-05-09T14:28:30Z" filename="._1234567892.xml" mimetype="text/xml"/>
+    <resource type="XMLResource" name="._1234567893.xml" owner="admin" group="dba" mode="755" created="2012-05-09T14:29:00Z" modified="2012-05-09T14:29:00Z" filename="._1234567893.xml" mimetype="text/xml"/>
+    <resource type="XMLResource" name="._1234567894.xml" owner="admin" group="dba" mode="755" created="2012-05-09T14:29:15Z" modified="2012-05-09T14:29:15Z" filename="._1234567894.xml" mimetype="text/xml"/>
+    <resource type="XMLResource" name="1234567891.xml" owner="admin" group="dba" mode="755" created="2012-05-09T08:11:30Z" modified="2012-05-10T02:58:07Z" filename="1234567891.xml" mimetype="text/xml"/>
+    <resource type="XMLResource" name="1234567892.xml" owner="admin" group="dba" mode="755" created="2012-05-09T14:28:30Z" modified="2012-05-10T03:38:43Z" filename="1234567892.xml" mimetype="text/xml"/>
+    <resource type="XMLResource" name="1234567893.xml" owner="admin" group="dba" mode="755" created="2012-05-09T14:29:00Z" modified="2012-05-10T03:59:02Z" filename="1234567893.xml" mimetype="text/xml"/>
+    <resource type="XMLResource" name="1234567894.xml" owner="admin" group="dba" mode="755" created="2012-05-09T14:29:15Z" modified="2012-05-09T14:29:15Z" filename="1234567894.xml" mimetype="text/xml"/>
+</collection>

@@ -1,0 +1,13 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/smartpcc" owner="admin" group="dba" mode="755" created="2012-04-19T01:30:48Z" version="1">
+    <resource type="BinaryResource" name=".DS_Store" owner="admin" group="dba" mode="755" created="2012-04-29T16:38:27Z" modified="2012-05-11T03:22:31Z" filename=".DS_Store" mimetype="application/octet-stream"/>
+    <resource type="BinaryResource" name="._.DS_Store" owner="admin" group="dba" mode="755" created="2012-04-29T16:38:27Z" modified="2012-04-29T16:38:27Z" filename="._.DS_Store" mimetype="application/octet-stream"/>
+    <resource type="XMLResource" name="goods.xml" owner="admin" group="dba" mode="755" created="2012-04-19T03:31:00Z" modified="2012-04-19T03:31:00Z" filename="goods.xml" mimetype="text/xml" namedoctype="plist" publicid="-//Apple//DTD PLIST 1.0//EN" systemid="http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+    <resource type="XMLResource" name="orderitem.xml" owner="admin" group="dba" mode="755" created="2012-04-21T07:27:05Z" modified="2012-04-21T07:27:05Z" filename="orderitem.xml" mimetype="text/xml"/>
+    <resource type="XMLResource" name="show.xml" owner="admin" group="dba" mode="755" created="2012-04-21T02:47:55Z" modified="2012-04-21T02:47:55Z" filename="show.xml" mimetype="text/xml"/>
+    <resource type="BinaryResource" name="try.xql" owner="admin" group="dba" mode="755" created="2012-04-21T02:48:44Z" modified="2012-04-21T07:35:20Z" filename="try.xql" mimetype="application/xquery"/>
+    <subcollection name="admin" filename="admin"/>
+    <subcollection name="xsl" filename="xsl"/>
+    <subcollection name="usermem" filename="usermem"/>
+    <subcollection name="xql" filename="xql"/>
+    <subcollection name="user" filename="user"/>
+</collection>

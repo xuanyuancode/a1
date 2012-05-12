@@ -1,0 +1,1 @@
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0"><xsl:template match="/admin"><plist version="1.0"><dict><key>vip</key><string><xsl:value-of select="vip"/></string><key>novip</key><string><xsl:value-of select="novip"/></string><key>red</key><string><xsl:value-of select="red"/></string></dict></plist></xsl:template></xsl:stylesheet>
